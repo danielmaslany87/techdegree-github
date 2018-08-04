@@ -1,1 +1,1 @@
-# techdegree-github
+# Techdegree Github Project
